@@ -1,0 +1,5 @@
+secrets.txt
+.DS_Store
+
+# This is a comment!
+# can also use *.txt, .log, .app to hide files with those extentions 
